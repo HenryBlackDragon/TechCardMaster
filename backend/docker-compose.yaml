@@ -17,7 +17,7 @@ services:
       dockerfile: Dockerfile
     container_name: techcard-master
     ports:
-      - "8080:8080"
+      - "5000:5000"
     depends_on:
       - mongodb
     environment:

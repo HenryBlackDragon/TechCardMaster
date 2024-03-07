@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TechcardmasterApplication {
+public class TechCardMasterApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TechcardmasterApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TechCardMasterApplication.class, args);
+    }
 
 }

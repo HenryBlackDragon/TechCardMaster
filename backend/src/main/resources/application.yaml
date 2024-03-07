@@ -1,0 +1,10 @@
+server:
+  servlet:
+    context-path: /api
+  port: 5000
+
+app:
+  openai:
+    api:
+      key: "your-api-key"
+      url: "https://api.openai.com/v1/chat/completions"
